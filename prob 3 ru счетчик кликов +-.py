@@ -1,5 +1,7 @@
 from tkinter import *
 
+# I can see you
+
 root = Tk()
 root.title("Счетчик кликов")
 root.geometry("500x500")
